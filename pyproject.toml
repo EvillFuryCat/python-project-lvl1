@@ -2,13 +2,13 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = ""
-authors = ["EvillFuryCat <volkovkostik988@gmail.com>"]
+authors = ["Константин <volkovkostik988@gmail.com>"]
 packages = [
   { include = "brain_games" },
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"

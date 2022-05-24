@@ -1,4 +1,4 @@
-#!/c/Users/usr/AppData/Local/Programs/Python/Python310/python
+#!/usr/bin/env python
 def main():
     print('Welcome to the Brain Games!')
 

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 [![Actions Status](https://github.com/EvillFuryCat/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/EvillFuryCat/python-project-lvl1/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/aeea9e0c51599cbb2e9c/maintainability)](https://codeclimate.com/github/EvillFuryCat/python-project-lvl1/maintainability) [![my workflow](https://github.com/EvillFuryCat/python-project-lvl1/actions/workflows/brain_games_workflow.yml/badge.svg)](https://github.com/EvillFuryCat/python-project-lvl1/actions/workflows/brain_games_workflow.yml)
+=======
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/EvillFuryCat/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/EvillFuryCat/python-project-lvl1/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/aeea9e0c51599cbb2e9c/maintainability)](https://codeclimate.com/github/EvillFuryCat/python-project-lvl1/maintainability) [![my workflow](https://github.com/EvillFuryCat/python-project-lvl1/actions/workflows/brain_games_workflow.yml/badge.svg)](https://github.com/EvillFuryCat/python-project-lvl1/actions/workflows/brain_games_workflow.yml)
+>>>>>>> cb5ed2e88fb380baf7f8b8393a47de85eff1ca7a

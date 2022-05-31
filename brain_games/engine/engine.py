@@ -11,8 +11,8 @@ def start_game(game):
     print(f'Hello, {name}!')
     print(game.REGULATIONS)
     for _ in range(ROUNDS):
-        random_number, correct_answer = game.is_even()
-        print(f'Question: {random_number}')
+        question, correct_answer = game.get_start()
+        print(f'Question: {question}')
         user_answer = prompt.string("Your answer: ")
         if user_answer.lower() == correct_answer.lower():
             print('Correct!')

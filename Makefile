@@ -12,5 +12,4 @@ lint:
 		poetry run flake8 brain_games
 rec:
 		asciinema rec
-
 		

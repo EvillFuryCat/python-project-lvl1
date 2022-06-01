@@ -5,3 +5,6 @@ Brain-even
 
 Brain-calculater
 [![asciicast](https://asciinema.org/a/498361.svg)](https://asciinema.org/a/498361)
+
+Brain-gcd
+[![asciicast](https://asciinema.org/a/498532.svg)](https://asciinema.org/a/498532)

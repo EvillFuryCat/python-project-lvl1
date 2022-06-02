@@ -2,6 +2,7 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Brain Games. 5 games for your brains: Even, Calculator, GCD, Progression, Prime"
+repository = "https://github.com/EvillFuryCat/python-project-lvl1"
 authors = ["Константин <volkovkostik988@gmail.com>"]
 packages = [
   { include = "brain_games" },

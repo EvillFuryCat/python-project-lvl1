@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain Games. 5 games for your brains: Even, Calculator, GCD, Progression, Prime"
 authors = ["Константин <volkovkostik988@gmail.com>"]
 packages = [
   { include = "brain_games" },
